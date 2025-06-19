@@ -11,3 +11,5 @@ It calculates the area of a rectangle based on the user's input for length and w
 - Input for name, length, and width
 - Output shows the calculated area in `cm²`
 - Beginner-friendly and easy to understand
+
+(Typed In Indonesian)
